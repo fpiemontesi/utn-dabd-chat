@@ -4,7 +4,7 @@ Se solicita desarrollar una aplicación que permita mandar mensajes entre distin
 
 A continuación se muestra una imagen de la estructura de componentes. 
 
-![image](https://github.com/fpiemontesi/utn-dabd-chat/assets/32469880/d0a4a9f0-c5b6-49b1-b32f-25e90a3749a4)
+![image](https://github.com/fpiemontesi/utn-dabd-chat/assets/32469880/71797b6a-b791-46b8-9837-9cb29406e12d)
 
 Se debe manejar la comunicación entre los componentes de manera que cada vez que el usuario cargue un nuevo mensaje el mismo sea visualizado en el contenedor de mensajes.
 
